@@ -59,9 +59,9 @@ tversion=(cyan+"\t\t   Version : 1.0.1 ")
 
 line2=("\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~")
  
-dtls=(yellow+"\t\t Created By: Redwiat ")
+dtls=(yellow+"\t\t Created By: K.I FORHAD ")
 
-note=(cyan+"এই স্ক্রিপ্ট কেও খারাফ কাজে ব্যাবহার করবেননা। করে গোয়া মারা খেলে কর্তৃপক্ষ দায়ী থাকবেনা। আমি এটি এনক্রাইপ্ট করে রেখেছি। কেও ডেক্রাইপ্ট করতে চাইলে স্ক্রিপ্ট ডেড হয়ে যাবে.")
+note=(cyan+"GIFT---FOR---EMON---FREEPORT")
 
 print(logo)
 
