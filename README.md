@@ -1,1 +1,3 @@
 # SMSBOOMB
+cd SMSBOOMB
+python2 SMSBOOMB.py
